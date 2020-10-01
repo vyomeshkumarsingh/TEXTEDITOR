@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
 
     # Text area
-    textArea = Text(root,font="Helvatica 15")
+    textArea = Text(root,font="Helvatica 15 bold")
     file = None
     textArea.pack(expand=True,fill=BOTH)
     # creating a menu bar
