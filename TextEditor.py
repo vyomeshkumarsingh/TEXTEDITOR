@@ -61,7 +61,7 @@ def about():
 if __name__ == "__main__":
     root = Tk()
     root.geometry("644x688")
-    root.title("Notepad")
+    root.title("TextEditor")
     root.wm_iconbitmap("icon.png")
 
 
